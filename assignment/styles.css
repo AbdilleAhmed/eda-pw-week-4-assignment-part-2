@@ -1,0 +1,17 @@
+header{
+    background-color: thistle;
+}
+.info{
+    text-align: center;
+    justify-content: center ;
+}
+.info h2{
+background-color: black;
+color: white;
+
+}
+h3{
+    background-color: black;
+    color: red;
+
+}
